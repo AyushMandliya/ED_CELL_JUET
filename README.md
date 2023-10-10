@@ -5,8 +5,6 @@ Welcome to the Jaypee University Of Engineering And Technology Entrepreneurial C
 ## Table of Contents
 
 - [About](#about)
--
-- [License](#license)
 
 ## About
 
